@@ -1,4 +1,4 @@
-请先安装opencv库：pip3 install opencv-python
+请先安装opencv & numpy库：pip3 install opencv-python numpy
 
 参数解释
 blurred:
